@@ -1181,7 +1181,7 @@ a.text-danger:hover {
 }
 .bg-primary {
   color: #fff;
-  background-color: #2c3e50;
+  background-color: #1031a5;
 }
 a.bg-primary:hover {
   background-color: #1a242f;
@@ -4158,7 +4158,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #2c3e50;
+  background-color: #1031a5;
   border-color: transparent;
 }
 .navbar-default .navbar-brand {
